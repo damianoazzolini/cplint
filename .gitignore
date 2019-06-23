@@ -10,3 +10,9 @@ doc/manual.log
 doc/manual.out
 
 *.dot
+
+doctrees/
+.buildinf
+
+doctrees/
+.buildinfo
